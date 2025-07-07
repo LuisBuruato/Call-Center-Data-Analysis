@@ -169,8 +169,7 @@ Haz un fork del proyecto.
 Crea una rama (git checkout -b feature/mi‑feature).
 
 Confirma cambios y abre un pull request.
-
-Asegúrate de seguir la guía de estilo PEP 8 y documentar tu código.
+.
 
 📄 Licencia
 
