@@ -22,25 +22,7 @@ Gráficos de estacionalidad diaria y semanal.
 
 Modelos de predicción de volumen y dimensionamiento de agentes.
 
-📌 Visualizaciones
 
-Llamadas entrantes → Histograma
-
-Llamadas abandonadas → Histograma
-
-Llamadas entrantes vs espera y abandono → Scatter
-
-SLA vs ASA y abandono → Scatter
-
-Tiempo de espera vs volumen → Boxplot
-
-Nivel de servicio (SLA) → Histograma
-
-Mapa de calor de correlaciones
-
-Abandono vs llamadas entrantes → Regresión
-
-Contestadas + SLA por día/agente → Combinado
 
 ### 📈 Visualizaciones generadas
 
