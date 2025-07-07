@@ -158,7 +158,6 @@ Contestadas + SLA por día/agente → Combinado
 
 
 
-Este gráfico muestra cuántas llamadas contestó cada agente (barras) y su nivel de SLA (línea) durante la semana. Ayuda a comparar rendimiento y calidad al mismo tiempo.
 
 🤝 Contribuir
 
