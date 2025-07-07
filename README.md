@@ -12,65 +12,7 @@ Preguntas de negocio:
 
 ¿Podemos predecir picos de demanda para dimensionar el personal?
 
-⚙️ Requisitos
 
-Paquete
-
-Versión sugerida
-
-Python
-
-3.10 o superior
-
-pandas
-
->= 2.0
-
-numpy
-
->= 1.26
-
-matplotlib
-
->= 3.8
-
-seaborn
-
->= 0.13
-
-scikit‑learn
-
->= 1.5
-
-jupyter
-
->= 1.0
-
-Instala todo con:
-
-pip install -r requirements.txt
-
-🚀 Uso rápido
-
-Clona el repositorio (o extrae el directorio CALL_CENTER en la raíz):
-
-git clone https://github.com/LuisBuruato/Call-Center-Data-Analysis.git
-cd Call-Center-Data-Analysis
-
-Crea un entorno virtual (opcional pero recomendado):
-
-python -m venv .venv
-source .venv/Scripts/activate  # Windows
-
-Instala dependencias: pip install -r requirements.txt
-
-Ejecuta notebooks o scripts:
-
-Análisis exploratorio: jupyter notebook notebooks/call_center_analysis.ipynb
-
-Preprocesamiento completo: python src/preprocessing.py --input data/raw --output data/processed
-
-Los gráficos y tablas de salida se guardarán en reports/figures.
 
 📝 Resultados esperados
 
