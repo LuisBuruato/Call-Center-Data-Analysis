@@ -102,4 +102,4 @@ Este repositorio se distribuye bajo la licencia MIT. Consulta el archivo LICENSE
 
 Autor: Luis Ramón Buruato
 
-LinkedIn: https://www.linkedin.com/in/luis-buruato/
+LinkedIn: https://www.linkedin.com/in/luis-ramon-buruato-1a949741/
